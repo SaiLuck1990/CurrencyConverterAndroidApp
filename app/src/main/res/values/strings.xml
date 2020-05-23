@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CurrencyConverter</string>
+    <string name="currency_conversion">Currency conversion</string>
+    <string name="EnterAmount">Enter the amount you want to convert in GBP</string>
+    <string name="CurrencyAmount">Amount in £</string>
+    <string name="ButtonName">Convert To INR</string>
 </resources>
