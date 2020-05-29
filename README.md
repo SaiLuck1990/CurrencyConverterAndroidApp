@@ -1,6 +1,6 @@
 Demo Screenshot 
 
-![](images/DemoPage1.png)
+![](DemoPage1.png)
 
-![](images/DemoPage2.png)
+![](DemoPage2.png)
 
